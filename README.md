@@ -26,4 +26,4 @@ Este portfolio fue diseñado y construido como parte de un entregable práctico 
 
 ## 👩‍💻 Autora
 Desarrollado por **Chiribao** — QA Automation Specialist.  
-- 🐙 [Perfil de GitHub](https://github.com/QAutomationChiribao)
+- 🐙 [Perfil de GitHub](https://github.com/MariaChiribao)
