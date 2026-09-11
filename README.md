@@ -8,7 +8,7 @@ El objetivo de este proyecto es consolidar mis conocimientos en el desarrollo we
 
 ## 🌐 Sitio Web en Vivo
 Puedes acceder al portfolio desplegado a través del siguiente enlace:
-👉 **[Ver Portfolio Web en GitHub Pages](https://github.com/mariachiribao/chiribao.github.io/)**
+👉 **[Ver Portfolio Web en GitHub Pages](https://qautomationchiribao.github.io/)**
 
 ---
 
